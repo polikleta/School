@@ -1,4 +1,4 @@
-# 🎓 University Projects & Coursework
+#  University Projects and Coursework
 
 This repository contains assignments, projects, and notes from my Data Analysis and Applied Mathematics studies. 
 
